@@ -1,0 +1,196 @@
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 320px) and (max-width: 575.98px) {
+ 
+    .navbar-brand img{
+        margin-left: 20px;
+    }    
+ .navbar-light .navbar-toggler {
+    border-color: red;
+    margin-right:10px; 
+}
+    .navbar-nav .nav-item.active .nav-link,
+    .navbar-nav .nav-item .nav-link{
+    background-color: green;
+    text-align: center;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    padding:10px;    
+    margin-right: 0px;    
+}
+    
+    .banner_con{
+        text-align: center;    
+    } 
+    
+    .banner_con h1 {
+    font-size: 25px;
+    }
+    
+    .banner_con p{
+        font-size:20px;
+        text-align: center;
+    }
+    
+    .banner_con a{
+      font-size: 20px;
+      text-align: justify;
+      margin-left: -10px;    
+    }
+    
+    .ser_con h4{
+        text-align: center;
+        margin-right:20px;
+    }
+    .ser_con p{
+        text-align: center;
+        margin-right:20px;
+    }
+    .hidden{
+        display: none;
+    }
+    .ser_main {
+        margin-bottom: 51px;
+    }
+    .big_img {
+    margin-bottom: 20px;
+}
+    .round_img {
+    margin-top: 20px;
+}
+    
+/*    footer part responisive start*/
+    .f_header{
+        margin-left: 15px;
+    }
+    .f_content{
+        margin-top:-10px;
+        margin-bottom: 20px;
+        margin-left:15px;
+    }
+    
+    .f_common_head{
+        margin-top:20px;
+        margin-left:15px;
+    }
+    
+    .f_post p{
+        margin-left:15px;
+    }
+    
+    .f_date p{
+        margin-left:15px;
+    }
+    
+    .f_note{
+        margin-left: 15px;
+    }
+    
+    .copyright p{
+        margin-left: 15px;
+    }
+/*    footer part responisive end*/
+}
+    
+    /* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-brand img{
+        margin-left: 20px;
+    }    
+ .navbar-light .navbar-toggler {
+    border-color: red;
+    margin-right:10px; 
+}
+    .navbar-nav .nav-item.active .nav-link,
+    .navbar-nav .nav-item .nav-link{
+    background-color: green;
+    text-align: center;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    padding:10px;    
+    margin-right: 0px;    
+}
+    
+    .banner_con{
+        text-align: center;    
+    } 
+    
+    .banner_con h1 {
+    font-size: 25px;
+    }
+    
+    .banner_con p{
+        font-size:20px;
+        text-align: center;
+    }
+    
+    .banner_con a{
+      font-size: 20px;
+      text-align: justify;
+      margin-left: -60px;    
+    }
+    
+    .ser_con h4{
+        text-align: center;
+        margin-left:-70px;
+    }
+    .ser_con p{
+        text-align: center;
+        margin-right:20px;
+    }
+    
+    .work-header h2{
+        margin-bottom: 20px;
+    }
+    
+    .work_con p{
+        margin-top:-5px;
+        margin-bottom: 20px;
+    }
+    .hidden{
+        display: none;
+    }
+    .ser_main {
+        margin-bottom: 51px;
+    }
+    .big_img {
+    margin-bottom: 20px;
+}
+    .round_img {
+    margin-top: 20px;
+}
+    
+/*    footer part responisive start*/
+    .f_header{
+        margin-left: 15px;
+    }
+    .f_content{
+        margin-top:-10px;
+        margin-bottom: 20px;
+        margin-left:15px;
+    }
+    
+    .f_common_head{
+        margin-top:20px;
+        margin-left:15px;
+    }
+    
+    .f_post p{
+        margin-left:15px;
+    }
+    
+    .f_date p{
+        margin-left:15px;
+    }
+    
+    .f_note{
+        margin-left: 15px;
+    }
+    
+    .copyright p{
+        margin-left: 15px;
+    }
+/*    footer part responisive end*/
+    
+}
